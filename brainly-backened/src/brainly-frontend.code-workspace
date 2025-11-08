@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../brainly-frontend"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "brainly-frontend"
+	}
+}
